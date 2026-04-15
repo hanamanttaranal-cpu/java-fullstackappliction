@@ -347,4 +347,4 @@ npm run build
 
 ## 📄 License
 
-MIT License — free to use for personal and commercial projects.
+#####MIT License — free to use for personal and commercial projects.
