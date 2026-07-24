@@ -1,3 +1,16 @@
+
+
+https://github.com/user-attachments/assets/c8526f5b-2ffd-4bb6-8950-c83f4acdd819
+
+
+
+
+
+
+
+
+
+
 # 🛒 ShopNow - Java Full Stack E-Commerce Application
 
 A complete, production-ready e-commerce application built with **Spring Boot** (backend) and **React** (frontend).
